@@ -33,7 +33,7 @@ This project analyzes website traffic data to understand visitor behavior, traff
 
 ## Project Files
 - `Web_Traffic_Analytics_Report.pdf` – Final analysis report.
-- Dataset CSV – Website traffic dataset.
+- Dataset CSV – web_traffic_analytics.
 - Google Colab Notebook (`.ipynb`) – Python code and analysis.
 
 ## Conclusion
